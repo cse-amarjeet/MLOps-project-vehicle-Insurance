@@ -118,7 +118,8 @@ async def predictRouteClient(request: Request):
                                 Vehicle_Age_gt_2_Years = form.Vehicle_Age_gt_2_Years,
                                 Vehicle_Damage_Yes = form.Vehicle_Damage_Yes
                                 )
-
+        
+        print("printing vechile data from app.py",vehicle_data)
         # Convert form data into a DataFrame for the model
         vehicle_df = vehicle_data.get_vehicle_input_data_frame()
 
