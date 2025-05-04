@@ -1,7 +1,4 @@
-Thought for a couple of seconds
 
-
-````markdown
 # 🚗 Vehicle MLOps Project
 
 [![Python 3.10](https://img.shields.io/badge/python-3.10-blue.svg)](https://www.python.org/)  
@@ -77,7 +74,6 @@ automated data ingestion from MongoDB, EDA & feature engineering, model training
 1. **Generate project scaffold**  
    ```bash
    python template.py
-````
 
 2. **Configure packaging**
 
@@ -256,5 +252,3 @@ Please adhere to the [Code of Conduct](CODE_OF_CONDUCT.md).
 
 This project is licensed under the **MIT License**. See [LICENSE](LICENSE) for details.
 
-```
-```
