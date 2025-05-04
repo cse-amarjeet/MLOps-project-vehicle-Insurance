@@ -3,7 +3,6 @@
 
 [![Python 3.10](https://img.shields.io/badge/python-3.10-blue.svg)](https://www.python.org/)  
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)  
-[![Build Status](https://img.shields.io/github/actions/workflow/status/cse-amarjeet/MLOps-project-vehicle-Insurance/ci-cd.yaml?branch=main)](https://github.com/cse-amarjeet/MLOps-project-vehicle-Insurance/actions)  
 
 An end-to-end MLOps pipeline for vehicle data:  
 automated data ingestion from MongoDB, EDA & feature engineering, model training & evaluation, AWS S3 storage, and seamless CI/CD deployment to an EC2-hosted web app.
